@@ -1,6 +1,9 @@
 # Credit-Card-Detection-using-RLanguage
 Explaination for code :
-The code aims to balance the dataset, build decision tree models, and evaluate their performance for fraud detection. 
+
+The primary goal of this code is to develop and assess the effectiveness of a fraud detection model.
+By balancing the dataset and building a decision tree model, the code aims to improve the model's ability to identify fraudulent transactions while minimizing false positives. 
+The evaluation metrics (confusion matrices) provide insights into the model's performance in terms of accuracy, precision, recall, and other classification metrics.
 
 Data Import and Exploration:
 Start by importing the credit card dataset from a CSV file and view its contents using the read.csv and View functions.
